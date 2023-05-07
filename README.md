@@ -8,3 +8,5 @@ The code is decompiled by me using Procyon decompiler
 I fixed it and make it easier to read.
 # Screenshot
 ![BK53YJORUAF0}(T$M$ M}D0](https://user-images.githubusercontent.com/53552261/236684150-6f71408a-8ac0-482c-b2b6-0fd5c05a50ac.png)
+# Copyright
+Feel free to modify & copy & release the modified version, but I dont hope that you guys make it commercial because the original author released it for free.
