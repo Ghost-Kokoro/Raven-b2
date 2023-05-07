@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "package": "net.bplaced.azoq.mixin.mixins",
+  "refmap": "mixins.client.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinAbstractClientPlayer",
+    "MixinBlock",
+    "MixinEntity",
+    "MixinEntityPlayer",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinFontRenderer",
+    "MixinGuiIngame",
+    "MixinMinecraft",
+    "MixinNetHandlerPlayClient",
+    "MixinPlayerControllerMP",
+    "MixinProfiler",
+    "MixinRendererLivingEntity",
+    "MixinRenderPlayer"
+  ]
+}
